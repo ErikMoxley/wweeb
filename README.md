@@ -1,1 +1,1 @@
-Mockup of WWEEB website I'm working on.
+Mockup of WWEEB website. Working off coloblib template.
